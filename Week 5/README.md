@@ -6,4 +6,4 @@
    * [Traffic Light](https://github.com/Hardcaml-Mini-Course-at-Stevens/Course-Materials/tree/main/Week%205/TrafficLightFSM) - Generally simple application of a finite state machine to behave like a condensed version of a traffic light controller
    * [Display Demo](https://github.com/Hardcaml-Mini-Course-at-Stevens/Course-Materials/tree/main/Week%205/DisplayDemo) - Displays the value associated with taking in the board's switches as inputs and then converting from binary to decimal (base 10)
    * [FSM Plus Display](https://github.com/Hardcaml-Mini-Course-at-Stevens/Course-Materials/tree/main/Week%205/FSMplusDisplay) - Displays the decimal (base 10) values of the counter on both the anodes and LED's while maintaining the traffic light controller FSM behavior as well
-* [Lecture Recording (to be provided later)]()
+* [Lecture Recording (now updated!)](https://stevens.zoom.us/rec/share/Yd9GrxOjmJt5gidmS-VDxo17iq_Z1oCqhsujyULv4VeCfWRcC-9rxXJPs8skUgQ.tQ4ZQknKvUKdAHFO)
